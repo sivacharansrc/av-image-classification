@@ -1,0 +1,2 @@
+# Excluding the input data folder due to the large size
+input_data/
